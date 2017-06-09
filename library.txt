@@ -1,0 +1,20 @@
+List of libraries
+dragonboard 410c 
+https://github.com/Rogero0o/CatLoadingView
+https://github.com/linkedin/qark
+http://facebook.github.io/stetho/
+https://github.com/multidots/android-app-common-tasks
+https://github.com/nekocode/CameraFilter
+https://github.com/Skykai521/StickerCamera
+https://github.com/aryarohit07/PicassoFaceDetectionTransformation
+https://github.com/OrangeGangsters/LolliPin
+https://github.com/Beh01der/EasyFlow
+
+https://play.google.com/store/apps/details?id=com.koushikdutta.inkwire
+https://play.google.com/store/apps/details?id=com.koushikdutta.cast
+https://play.google.com/store/apps/details?id=com.koushikdutta.cast.receiver
+
+
+******************   apktool   *********************
+
+https://smsgateway.me/
